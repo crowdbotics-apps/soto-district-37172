@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-social-feed](screens/social-feed)
 - [screen-post-listing](screens/post-listing)
 - [react-native-articles](modules/articles)
+- [screen-google-calendar](screens/google-calendar)
 
 # Getting started: Frontend
 
